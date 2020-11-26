@@ -1,4 +1,4 @@
 # Projeto-proffy
 Projeto Proffy NLW 2
 
-![web-demo](https://user-images.githubusercontent.com/27456580/100305497-fc966980-2f7f-11eb-97a0-7eef171a19e4.gif)
+![Modelo01](https://user-images.githubusercontent.com/27456580/100305849-b988c600-2f80-11eb-9c18-7636a514e587.png)
