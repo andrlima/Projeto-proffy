@@ -1,0 +1,33 @@
+Comandos no terminal
+
+Instalar:
+
+-> yarn
+-> npm
+-> node
+-> instala o node_modules
+    npm install express 
+
+- instalar:
+
+
+- npm install nodemn -D
+-> Fica reiniciando o servidor
+
+
+-Iniciar o servidor
+-> Na pasta src para testar 
+
+-> inicia o servidor
+- node server.js
+    npm run dev
+
+
+* escrevendo rs o serve reinicia
+
+
+Iniciando o servidor:
+
+
+
+.use : é uma configuração do servidor.
